@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\bin\Debug\netstandard2.0\BurgerApp.deps.json
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\bin\Debug\netstandard2.0\BurgerApp.dll
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\bin\Debug\netstandard2.0\BurgerApp.pdb
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\BurgerApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\BurgerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\Views\DetailsPage.xaml.g.cs
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\Views\LandingPage.xaml.g.cs
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\BurgerApp.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\BurgerApp.AssemblyInfo.cs
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\BurgerApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\BurgerApp.dll
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\refint\BurgerApp.dll
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\BurgerApp.pdb
+C:\Users\user\source\repos\BurgerApp\BurgerApp\BurgerApp\obj\Debug\netstandard2.0\ref\BurgerApp.dll

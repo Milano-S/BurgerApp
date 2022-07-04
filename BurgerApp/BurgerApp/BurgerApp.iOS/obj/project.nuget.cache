@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVvAJlOoozgVJmfdL2lBh86/JyI7LZnSXXYzX0QG+q2R6jphHj0kxAtq35H0pdQv+yZQSvI6pE5wwzXtPJEGwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\BurgerApp\\BurgerApp\\BurgerApp.iOS\\BurgerApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
